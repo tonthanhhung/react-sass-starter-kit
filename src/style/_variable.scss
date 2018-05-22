@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400);
+$family-primary:'Open Sans', sans-serif;
+$weight-normal:300;
+
+// Size
+$header-height:80px;
+$logo-width:179px;
+$logo-height:67px;
+$search-box-width:870px;
+$search-box-height:36px;
+$new-button-width:90px;
+$new-button-height:36px;
+$card-width:250px;
+$card-height:315px;
+$card-padding:10px;
+$card-header-height:50px;
+
+// Typography 
+$date-size:2.9rem;//40pt;
+$day-size:1.1rem;//pt;
+$location-size:1.1rem;
+$medium-size:1rem;
+
+// Color
+$frech-rose-pink:#f03c76;
+$pear-green:#c7df42;
+$curiuos-blue:#1bafe5;
+$header-bar-grey:#444444;
+$bg-light-grey:#f7f7f7;
+
+$tablet: 768px !default
